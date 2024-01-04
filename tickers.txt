@@ -1,0 +1,4 @@
+Please list the tickers for the desired stocks below (start a new line for each stock):
+AMZN
+AAPL
+TSLA
