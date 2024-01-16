@@ -1,4 +1,4 @@
-# Stock Sentiment Analysis System
+# Stock Sentiment Analysis
 
 ## Overview
 Welcome to the Stock Sentiment Analysis System repository! This Python project is designed to analyze the sentiment of financial news related to specific stocks. The system gathers data from FINVIZ, performs sentiment analysis using NLTK's Vader SentimentIntensityAnalyzer, and visualizes the results through a bar chart.
